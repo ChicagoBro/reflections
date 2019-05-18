@@ -7,7 +7,12 @@ local?
 Why might you want to always pull changes manually rather than having Git
 automatically stay up-to-date with your remote repository?
 
-    Fill in your answer here
+    "Pulling" commits from GitHub into your local repository makes changes permanent that could? 
+	be reversed or set to another branch (I think). Some of these commits might be from
+	other contributors to code and may not help with what you're currently doing or does not
+	comply with what you want the final product to be. It also might make the final code file
+	more messy or filled with code that does nothing or adds nothing to the product.
+	
 
 Describe the differences between forks, clones, and branches.  When would you
 use one instead of another?
